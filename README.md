@@ -33,3 +33,16 @@ Preprocessed data are included in the `data` directory.
 ## License
 This software may be used only for non-commercial purposes (e.g., research evaluation) in universities.
 Please contact Prof. U Kang (ukang@snu.ac.kr) if you want to use it for other purposes or use it in places other than universities.
+
+## Citation
+```
+@inproceedings{KimJLK23,
+  author    = {Jongjin Kim and
+               Hyunsik Jeon and
+               Jaeri Lee and
+               U Kang},
+  title     = {Diversely Regularized Matrix Factorization for Accurate and Aggregately Diversified Recommendation},
+  booktitle = {PAKDD},
+  year      = {2023},
+}
+```
